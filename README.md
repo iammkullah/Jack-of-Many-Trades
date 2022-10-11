@@ -23,12 +23,30 @@ This repository is being mantain to participate in Hectoberfest 2022.
 ## Things to remmember while participating in this repository
 * I've created separate folder/branch for every language and software files.
 * Following are some of the things I am accepting from all of you.
+
      1)- Python
+     
      2)- C
+
      3)- C++
-     4)- 
-
-
+     
+     4)- Latex/Overleaf
+     
+     5)- LabVIEW
+     
+     6)- Matlab
+     
+     7)- Proteus
+     
+     8)- Readme Profile Templates md
+     
+     9)- Resume Templates Word Documents
+     
+     10)- Adobe Photoshop
+     
+     11)- Adobe Illustrator
+     
+     12)- Canva Free Templates
 
 ## HERE’S WHAT YOU NEED TO KNOW TO PARTICIPATE AND COMPLETE HACKTOBERFEST: 
 
