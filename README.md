@@ -11,7 +11,22 @@ Hacktoberfest is for everyone. Whether it's your first time or your ninth. It's 
 
 # ABOUT THIS REPOSITORY
 This repository is being mantain to participate in Hectoberfest 2022.
-I'm Creating Sepe
+## Why contribute to this repository
+- Beginner-friendly
+
+- Create your first Pull Request on GitHub
+
+- Start with any webd project or ethereum development project of your choice.
+
+- Chance of receiving a T-Shirt for participating in the [Hacktoberfest](https://hacktoberfest.digitalocean.com)
+
+## Things to remmember while participating in this repository
+* I've created separate folder/branch for every language and software files.
+* Following are some of the things I am accepting from all of you.
+     1)- Python
+     2)- C
+     3)- C++
+     4)- 
 
 
 
