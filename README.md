@@ -47,6 +47,9 @@ This repository is being mantain to participate in Hectoberfest 2022.
      11)- Adobe Illustrator
      
      12)- Canva Free Templates
+ 
+ * You are suppose to upload the relavent file in the relavent folder with proper comments, and readme file.
+ * You are suppose to upload your work. Don't upload any work which don't belongs to you.
 
 ## HERE’S WHAT YOU NEED TO KNOW TO PARTICIPATE AND COMPLETE HACKTOBERFEST: 
 
