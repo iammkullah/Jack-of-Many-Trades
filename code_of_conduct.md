@@ -1,5 +1,7 @@
 ## Things to remmember while participating in this repository
 * I've created separate folder/branch for every language and software files.
+* Don't create any new folder or branch on the main.
+* Don't upload anything on the main as well as.
 * Following are some of the things I am accepting from all of you.
 
      1)- Python
