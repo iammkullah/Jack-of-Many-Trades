@@ -10,9 +10,7 @@
 
 </details>
 
-<h2>Following are the answers to the Project Euler problems <img src="https://github.com/Curovearth/LearnPython.py/blob/main/00-Project%20Euler%20Problems/imgs/pe-right.png" width=60/></h2>
-
-<img align=right src="https://github.com/Curovearth/LearnPython.py/blob/main/00-Project%20Euler%20Problems/imgs/runTime.py.png" width=570/>
+<h2>Following are the answers to the <a href="https://projecteuler.net/">Project Euler problems</a> </h2>
 
 
 | Prob. Number | Answer | My comments |
