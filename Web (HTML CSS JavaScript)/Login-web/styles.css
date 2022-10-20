@@ -1,0 +1,32 @@
+body,
+html {
+  height: 100%;
+  background-image: linear-gradient(
+    to right,
+    rgb(0, 238, 255),
+    rgb(218, 0, 218)
+  );
+}
+
+.primal {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+.card-login {
+  display: flex;
+  justify-content: center;
+  width: 25rem;
+  height: 40rem;
+  background-color: rgb(232, 250, 248);
+  border-radius: 6px;
+}
+
+h2 {
+  margin-top: 50px;
+  font-weight: bold;
+  font-size: 30px;
+  color: rgb(34, 31, 31);
+}
