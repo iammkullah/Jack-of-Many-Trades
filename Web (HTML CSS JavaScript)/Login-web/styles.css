@@ -99,3 +99,22 @@ form span {
   font-size: 12px;
   color: rgb(34, 31, 31);
 }
+
+button {
+  background-image: linear-gradient(
+    to right,
+    rgb(93, 244, 255),
+    rgb(255, 99, 255)
+  );
+  margin-top: 30px;
+  display: flex;
+  width: 300px;
+  height: 40px;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  border-radius: 20px;
+  border: none;
+}
