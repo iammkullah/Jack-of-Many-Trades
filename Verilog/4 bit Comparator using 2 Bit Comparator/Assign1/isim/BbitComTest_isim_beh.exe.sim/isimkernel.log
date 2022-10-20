@@ -1,0 +1,28 @@
+Command line:
+   BbitComTest_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  59882
+
+Thu Sep 29 23:47:42 2022
+
+
+ Elaboration Time: 0.0625 sec
+
+ Current Memory Usage: 5154.26 Meg
+
+ Total Signals          : 71
+ Total Nets             : 64
+ Total Signal Drivers   : 46
+ Total Blocks           : 5
+ Total Primitive Blocks : 3
+ Total Processes        : 48
+ Total Traceable Variables  : 20
+ Total Scalar Nets and Variables : 152
+
+ Total Simulation Time: 0.125 sec
+
+ Current Memory Usage: 4682.4 Meg
+
+Fri Sep 30 00:08:33 2022
+

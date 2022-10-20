@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "E:/CE-7/Digital System Design - DSD/Lab/Xilinx Projects/Assign1/Com4BitUsing2BitCom.xst" -ofn "E:/CE-7/Digital System Design - DSD/Lab/Xilinx Projects/Assign1/Com4BitUsing2BitCom.syr" 

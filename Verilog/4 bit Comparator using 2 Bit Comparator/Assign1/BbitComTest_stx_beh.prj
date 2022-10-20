@@ -1,0 +1,4 @@
+verilog isim_temp "Com2Bit.v"
+verilog isim_temp "Com4BitUsing2BitCom.v"
+verilog isim_temp "BbitComTest.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

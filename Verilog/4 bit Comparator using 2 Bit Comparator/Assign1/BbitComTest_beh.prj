@@ -1,0 +1,4 @@
+verilog work "Com2Bit.v"
+verilog work "Com4BitUsing2BitCom.v"
+verilog work "BbitComTest.v"
+verilog work "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

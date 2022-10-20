@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="Assign1.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="BbitComTest_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="BbitComTest_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="BbitComTest_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="BbitComTest_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Com2Bit.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Com2Bit.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Com2Bit.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Com2Bit.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Com2Bit.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Com2Bit.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Com2Bit.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Com2Bit.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Com2Bit_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Com2Bit_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Com2Bit_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="Com4BitUsing2BitCom.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="Com4BitUsing2BitCom.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="Com4BitUsing2BitCom.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="Com4BitUsing2BitCom.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="Com4BitUsing2BitCom.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="Com4BitUsing2BitCom.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="Com4BitUsing2BitCom.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="Com4BitUsing2BitCom.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="Com4BitUsing2BitCom_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="Com4BitUsing2BitCom_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1664477003" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1664477003">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1664477255" xil_pn:in_ck="4817258503087519684" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1664477255">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="BbitComTest.v"/>
+      <outfile xil_pn:name="Com2Bit.v"/>
+      <outfile xil_pn:name="Com4BitUsing2BitCom.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1664477031" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="-1887486071048447123" xil_pn:start_ts="1664477031">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1664477031" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="3477544824754760171" xil_pn:start_ts="1664477031">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1664477031" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="581097477624762050" xil_pn:start_ts="1664477031">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1664477258" xil_pn:in_ck="4817258503087519684" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1664477258">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="BbitComTest.v"/>
+      <outfile xil_pn:name="Com2Bit.v"/>
+      <outfile xil_pn:name="Com4BitUsing2BitCom.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1664477261" xil_pn:in_ck="4817258503087519684" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-9202460939536264445" xil_pn:start_ts="1664477258">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="BbitComTest_beh.prj"/>
+      <outfile xil_pn:name="BbitComTest_isim_beh.exe"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1664477261" xil_pn:in_ck="2257220295274145999" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="3215354898566719184" xil_pn:start_ts="1664477261">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="BbitComTest_isim_beh.wdb"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+    </transform>
+    <transform xil_pn:end_ts="1664475019" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1664475019">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1664475999" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-8399597513315534061" xil_pn:start_ts="1664475999">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1664475999" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="581097477624762050" xil_pn:start_ts="1664475999">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1664475999" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1664475999">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1664475999" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="9013417049144590101" xil_pn:start_ts="1664475999">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1664475999" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="1106364426758808884" xil_pn:start_ts="1664475999">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1664475999" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-8614844749421046324" xil_pn:start_ts="1664475999">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1664476006" xil_pn:in_ck="2003866459967615392" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="7034657734134325083" xil_pn:start_ts="1664475999">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="Com2Bit.ngr"/>
+      <outfile xil_pn:name="Com4BitUsing2BitCom.lso"/>
+      <outfile xil_pn:name="Com4BitUsing2BitCom.ngc"/>
+      <outfile xil_pn:name="Com4BitUsing2BitCom.ngr"/>
+      <outfile xil_pn:name="Com4BitUsing2BitCom.prj"/>
+      <outfile xil_pn:name="Com4BitUsing2BitCom.stx"/>
+      <outfile xil_pn:name="Com4BitUsing2BitCom.syr"/>
+      <outfile xil_pn:name="Com4BitUsing2BitCom.xst"/>
+      <outfile xil_pn:name="Com4BitUsing2BitCom_xst.xrpt"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+  </transforms>
+
+</generated_project>
