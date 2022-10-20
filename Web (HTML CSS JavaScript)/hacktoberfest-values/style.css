@@ -1,0 +1,67 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300|Roboto:400';
+
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+    
+    background: #170f1e;
+    background: -moz-linear-gradient(top, #1f263b 0%, #2c3654 100%);
+    background: -webkit-linear-gradient(top, #1f263b 0%,#2c3654 100%);
+    background: linear-gradient(to bottom, #1f263b 0%,#2c3654 100%);
+}
+
+div.absolute-center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    opacity: 1;
+    visibility: visible;
+    
+    transition: all .5s;
+}
+
+h3 {
+    padding: 10px 30px 10px 30px;
+    box-sizing: border-box;
+    
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0 0 5px 0 black;
+    
+    font-family: 'Open Sans';
+    font-weight: 300;
+    text-align: center;
+    letter-spacing: 3px;
+}
+h5 {
+    padding: 10px 30px 10px 30px;
+    box-sizing: border-box;
+    
+    background: rgba(255, 255, 255, 1);
+    box-shadow: 0 0 5px 0 black;
+    
+    font-family: 'Open Sans';
+    font-weight: 300;
+    text-align: left;
+    letter-spacing: 3px;
+}
+
+span#close {
+    position: absolute;
+    top: -15px;
+    left: -30px;
+    
+    color: white;
+    font-size: 30px;
+    text-shadow: 0 0 5px black;
+    
+    cursor: pointer;
+}
+
+canvas {
+    //border: 2px solid;
+}
