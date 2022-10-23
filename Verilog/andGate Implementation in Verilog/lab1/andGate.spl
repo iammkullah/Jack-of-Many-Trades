@@ -1,0 +1,9 @@
+[Inputs]
+a
+b
+[Outputs]
+c
+[BiDir]
+[ATTRIBUTES]
+VeriModel andGate
+

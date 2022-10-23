@@ -1,0 +1,4 @@
+vhdtdtfi -lib work {C:/Users/Student/Desktop/iammkullah -  DSD/lab1/andGate.v} -lang verilog -prj lab1 -o andGate.spl -module andGate -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan6 andGate.spl {C:/Users/Student/Desktop/iammkullah -  DSD/lab1/andGate.sym} 
+xst -intstyle ise -ifn "C:/Users/Student/Desktop/iammkullah -  DSD/lab1/andGate.xst" -ofn "C:/Users/Student/Desktop/iammkullah -  DSD/lab1/andGate.syr" 
+xst -intstyle ise -ifn "E:/CE-7/Digital System Design - DSD/Lab/Xilinx Projects/lab1/andGate.xst" -ofn "E:/CE-7/Digital System Design - DSD/Lab/Xilinx Projects/lab1/andGate.syr" 
