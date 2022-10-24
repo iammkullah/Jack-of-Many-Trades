@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="E:/CE-7/Digital System Design - DSD/Lab/Xilinx Projects/Assign1/BbitComTest_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="BbitComTest" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/BbitComTest/AgB" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">AgB</obj_property>
+      <obj_property name="ObjectShortName">AgB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BbitComTest/AlB" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">AlB</obj_property>
+      <obj_property name="ObjectShortName">AlB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BbitComTest/AeqB" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">AeqB</obj_property>
+      <obj_property name="ObjectShortName">AeqB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BbitComTest/A" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">A[3:0]</obj_property>
+      <obj_property name="ObjectShortName">A[3:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/BbitComTest/B" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">B[3:0]</obj_property>
+      <obj_property name="ObjectShortName">B[3:0]</obj_property>
+   </wvobject>
+</wave_config>
