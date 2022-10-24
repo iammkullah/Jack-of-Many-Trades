@@ -4,7 +4,7 @@
  * By Taimoor Khan 
  * 
  * Contribute More to make it better 
- * PS: Please Add Comments to make it more understandable
+ * PS: Please Add Comments to make it more understandable and ADD YOUR nAME IN File Header
  */
 Stack = function () { 
   //Creating Stack
@@ -19,9 +19,9 @@ Stack = function () {
     this.count++;
   };
   this.pop = function () {
-    // if Condition to check if Stack is Empty if yes then return undefined
+    // if Condition to check if Stack is Empty if yes then return Stack is Empty
     if (this.count == 0) {
-      return undefined;
+      return "Stack is Empty";
     }
     // other wise decrease the count and return the value
     this.count--;
@@ -30,5 +30,12 @@ Stack = function () {
     return result;
   }
   //  Checking Length/Size of Stack 
+  this.size = function () {
+     // if Condition to check if Stack is Empty if yes then return Stack is Empty
+    if (this.count == 0) {
+      return "Stack is Empty";
+    }
+    return this.count;
+  };
 
 }
