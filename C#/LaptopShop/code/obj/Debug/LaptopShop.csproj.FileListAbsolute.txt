@@ -1,0 +1,14 @@
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\bin\Debug\LaptopShop.exe.config
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\bin\Debug\LaptopShop.exe
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\bin\Debug\LaptopShop.pdb
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\obj\Debug\LaptopShop.Form1.resources
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\obj\Debug\LaptopShop.Properties.Resources.resources
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\obj\Debug\LaptopShop.csproj.GenerateResource.Cache
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\obj\Debug\LaptopShop.exe
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\obj\Debug\LaptopShop.pdb
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\obj\Debug\LaptopShop.Billing.resources
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\obj\Debug\LaptopShop.Laptops.resources
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\obj\Debug\LaptopShop.Login.resources
+c:\users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\obj\Debug\LaptopShop.Employee.resources
+C:\Users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\obj\Debug\LaptopShop.csprojResolveAssemblyReference.cache
+C:\Users\muaaz\documents\visual studio 2013\Projects\LaptopShop\LaptopShop\obj\Debug\LaptopShop.AdminLogin.resources
