@@ -1,0 +1,3 @@
+Product0 : ,MacBook Air,Laptop,999,
+Product1 : ,HP Specter,Laptop,1200,
+Product2 : ,Dell XPS 13,Laptop,1250,
